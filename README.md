@@ -37,3 +37,6 @@ Create a MySQL Database called `bamazon`.
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
+## Screenshots:
+
+![Image of database](https://github.com/Jimbomoso/Bamazon/blob/master/screenshots/Screen%20Shot%202019-06-18%20at%2012.41.24%20PM.png)
