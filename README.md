@@ -39,4 +39,14 @@ Create a MySQL Database called `bamazon`.
 
 ## Screenshots:
 
+### Database created in MySQL
 ![Image of database](https://github.com/Jimbomoso/Bamazon/blob/master/screenshots/Screen%20Shot%202019-06-18%20at%2012.41.24%20PM.png)
+
+### Progam being launched in terminal
+![Image of program being started](https://github.com/Jimbomoso/Bamazon/blob/master/screenshots/Screen%20Shot%202019-06-18%20at%2012.41.24%20PM.png)
+
+### Purchase being started 
+![Image of purchase being made](https://github.com/Jimbomoso/Bamazon/blob/master/screenshots/Screen%20Shot%202019-06-18%20at%201.24.34%20PM.png)
+
+### Purchase being completed 
+![Image of purchase completed](https://github.com/Jimbomoso/Bamazon/blob/master/screenshots/Screen%20Shot%202019-06-18%20at%201.24.57%20PM.png)
